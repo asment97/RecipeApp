@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe_types">
+        <item>Recipe Types</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Appetizer</item>
+        <item>Salad</item>
+        <item>Main-course</item>
+        <item>Side-dish</item>
+        <item>Baked-goods</item>
+        <item>Dessert</item>
+        <item>Snack</item>
+        <item>Soup</item>
+        <item>Holiday</item>
+        <item>Vegetarian</item>
+    </string-array>
+</resources>
